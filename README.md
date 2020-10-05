@@ -1,1 +1,3 @@
-# github05
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
